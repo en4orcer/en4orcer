@@ -6,10 +6,10 @@ Hi, I'm Effy, a keen CryptoNote enthusiast hoping to make a tiny bit of influenc
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a decentralized CryptoCurrency based on the CryptoNote Protocol.;
-- 👯 I’m looking to collaborate on the CryptoCurrency project once in motion 🤝;
-- 🌱 I’m currently learning JS, Data Structures and Algorithms; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on a decentralized CryptoCurrency based on the CryptoNote Protocol.
+- 👯 🤝 I’m looking to collaborate on the CryptoCurrency project once in motion
+- 🌱 I’m currently learning JS, Data Structures and Algorithms.
+- 💬 Ask me about anything, I am happy to help.
 
 <br />
 <br />
