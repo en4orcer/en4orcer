@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [En4orcer!](https://github.com/en4orcer)... but don't let the name fool you - I'm a good guy! 
 
-<!--
-**en4orcer/en4orcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Effy, a keen CryptoNote enthusiast hoping to make a tiny bit of influence in this massive crypto space.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working on a decentralized CryptoCurrency based on the CryptoNote Protocol.;
+- 👯 I’m looking to collaborate on the CryptoCurrency project once in motion 🤝;
+- 🌱 I’m currently learning JS, Data Structures and Algorithms; 
+- 💬 Ask me about anything, I am happy to help;
+
+<br />
+<br />
