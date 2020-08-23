@@ -2,14 +2,15 @@
 
 Hi, I'm Effy, a keen CryptoNote enthusiast hoping to make a tiny bit of influence in this massive crypto space.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a decentralized CryptoCurrency based on the CryptoNote Protocol.
-- 👯 🤝 I’m looking to collaborate on the CryptoCurrency project once in motion
+- 👨🏽‍💻 I’m currently working on a decentralized cryptographic currency based on the [CryptoNote Protocol](https://cryptonote.org/).
+- 👯 🤝 I’m looking to collaborate on the cryptographic currency project.
 - 🌱 I’m currently learning JS, Data Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
+- 🎮 Also exploring game development.
 
 <br />
 <br />
