@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Effy!](https://github.com/en4orcer)... but don't let the name fool you - I'm a good guy! 
+### Hey 👋🏽, I'm [Effy!](https://github.com/en4orcer)! 
 
 Hi, I'm Effy. I'm a keen CryptoNote enthusiast that is hoping to make a tiny bit of influence in this massive crypto space.
 
