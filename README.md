@@ -7,10 +7,10 @@ Hi, I'm Effy. I'm a keen CryptoNote enthusiast that is hoping to make a tiny bit
 **Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a decentralized cryptographic currency based on the [CryptoNote Protocol](https://cryptonote.org/).
-- 👯 🤝 I’m looking to collaborate on the cryptographic currency project.
+- 👯 🤝 I’m looking to collaborate on the cryptographic currency project - **[@Cache-core](https://github.com/cache-core)**
 - 🌱 I’m currently learning JS, Data Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
-- 🎮 Also exploring game development.
+- 🎮 Exploring areas of game development.
 
 <br />
 <br />
